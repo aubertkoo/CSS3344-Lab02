@@ -1,6 +1,6 @@
 # first_flutter_app
 
-Lab 1
+Lab 2
 
 ## Getting Started
 
